@@ -1,0 +1,17 @@
+# core
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+scikit-learn==1.6.1
+tqdm
+PyYAML
+requests
+
+# plotting (optional but common for reproducing figures)
+matplotlib==3.9.4
+plotly==6.5.0
+
+# pytorch (version pinned; cuda install handled separately in README)
+torch==1.12.0
+torchvision==0.13.0
+torchaudio==0.12.0
